@@ -195,8 +195,8 @@ Know more about me:
 <br /><br /><br />
 
 <div width="100%" align="center">
-  <a href="https://github.com/ivatra/phoenix_dashboard" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ivatra&repo=phoenix_dashboard&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" />
+    <a href="https://github.com/ivatra/phoenix_dashboard" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ivatra&repo=phoenix_dashboard&title_color=3B8640&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
