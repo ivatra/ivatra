@@ -9,7 +9,7 @@ I am a Fullstack developer with extensive experience, specializing in designing 
 ## Tech stack
 
 Frontend:
-- React, Next.js, Vue.js, Redux, Zustand, Apollo GraphQL, Tailwind, SASS, CSS, Shadcn / Material / Mantine UI, NextAuth, Clerk
+- React, Next.js, Vue.js, Nuxt, Pinia Redux, Zustand, Apollo GraphQL, Tailwind, SASS, CSS, Shadcn / Material / Mantine UI, NextAuth, Clerk
 
 Backend:
 - Node.js, Nest.js, Express, Fastify, Sequelize, Prisma
