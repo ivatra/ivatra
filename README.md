@@ -1,8 +1,8 @@
 # Hi there, I'm Dmitry 👋
 
-## Frontend Developer | React & Vue Specialist
+## Node,js & React & Vue Specialist
 
-I'm a frontend developer specializing in React/Vue and SSR, building complex interfaces and maintaining scalable applications. I work with legacy code and high-load systems, effectively leveraging AI tools to enhance productivity.
+I'm a developer specializing in building complex interfaces and maintaining scalable applications. I work with legacy code and high-load systems, effectively leveraging AI tools to enhance productivity.
 
 I contribute to internal infrastructure and open-source projects. I enjoy sharing knowledge with my team — discussing technical solutions, reviewing complex code, and exploring best approaches to feature implementation.
 
@@ -16,7 +16,7 @@ React • Vue • TypeScript • JavaScript • Next.js
 Node.js • GraphQL • Redux • Pinia
 HTML • CSS • Sass • Less
 Docker • Git • GitLab • CI/CD
-MySQL • SQL • Figma
+MySQL • PostgreSQL • MongoDB • Figma
 Agile • Scrum
 
 ---
