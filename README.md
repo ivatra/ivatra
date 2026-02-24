@@ -1,6 +1,6 @@
 # Hi there, I'm Dmitry 👋
 
-## Node,js & React & Vue Specialist
+## Node.js | React | Vue Specialist
 
 I'm a developer specializing in building complex interfaces and maintaining scalable applications. I work with legacy code and high-load systems, effectively leveraging AI tools to enhance productivity.
 
