@@ -37,6 +37,13 @@ Stack: Vue.js, Node.js, MongoDB, Docker, RESTful API
 
 ---
 
+### [CRM](https://github.com/codevoyager223/ecommerce_dashboard)
+Dashboard for managing and visualizing e-commerce data: sales analytics, inventory tracking, customer insights, and business reporting. Modern, responsive interface for actionable metrics.
+
+Stack: React, TypeScript, Node.js, MongoDB, Docker, CI/CD
+
+---
+
 ### [Car Rental Platform](https://github.com/ivatra/car-rental)
 Full-stack car rental platform with modern architecture for scalable vehicle rental services. Features GraphQL API, database seeding, and seamless user experience with responsive UI design.
 
