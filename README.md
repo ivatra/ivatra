@@ -12,7 +12,7 @@ My priorities are solving challenges for the team, business, and clients with a 
 
 ## 🛠 Tech Stack
 
-React • TypeScript • JavaScript • Next.js
+React • TypeScript • JavaScript • Next.js •
 Node.js • GraphQL • Redux
 HTML • CSS • Sass • Less
 Docker • Git • GitLab • CI/CD
